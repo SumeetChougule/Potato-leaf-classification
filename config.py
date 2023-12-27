@@ -1,0 +1,7 @@
+# config.py
+
+
+IMAGE_SIZE = 256
+BATCH_SIZE = 32
+CHANNELS = 3
+EPOCHS = 50
